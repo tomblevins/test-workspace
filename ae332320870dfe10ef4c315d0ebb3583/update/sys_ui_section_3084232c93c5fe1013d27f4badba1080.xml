@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="General Info" section_id="3084232c93c5fe1013d27f4badba1080" sys_domain="global" table="x_snc_pds_pipeli_0_partner_gtm_assets" version="3" view="workspace-test-our-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>industry</element>
+            <position>0</position>
+            <sys_created_by>tom.blevins</sys_created_by>
+            <sys_created_on>2025-11-03 15:59:16</sys_created_on>
+            <sys_id>3884232c93c5fe1013d27f4badba1082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Info" display_value="General Info" name="x_snc_pds_pipeli_0_partner_gtm_assets" sys_domain="global" view="ba74ebe8bcc5fe1015222582138e0b14">3084232c93c5fe1013d27f4badba1080</sys_ui_section>
+            <sys_updated_by>tom.blevins</sys_updated_by>
+            <sys_updated_on>2025-11-03 15:59:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>tom.blevins</sys_created_by>
+            <sys_created_on>2025-11-03 15:59:16</sys_created_on>
+            <sys_id>3084232c93c5fe1013d27f4badba1083</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Info" display_value="General Info" name="x_snc_pds_pipeli_0_partner_gtm_assets" sys_domain="global" view="ba74ebe8bcc5fe1015222582138e0b14">3084232c93c5fe1013d27f4badba1080</sys_ui_section>
+            <sys_updated_by>tom.blevins</sys_updated_by>
+            <sys_updated_on>2025-11-03 15:59:16</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>General Info</caption>
+            <header>false</header>
+            <name>x_snc_pds_pipeli_0_partner_gtm_assets</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>tom.blevins</sys_created_by>
+            <sys_created_on>2025-11-03 15:59:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3084232c93c5fe1013d27f4badba1080</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_pds_pipeli_0_partner_gtm_assets</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+            <sys_update_name>sys_ui_section_3084232c93c5fe1013d27f4badba1080</sys_update_name>
+            <sys_updated_by>tom.blevins</sys_updated_by>
+            <sys_updated_on>2025-11-03 15:59:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Test Our Workspace 0" name="workspace-test-our-workspace-0">ba74ebe8bcc5fe1015222582138e0b14</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

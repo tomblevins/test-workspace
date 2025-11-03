@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <search_context_config display_value="Test Our Workspace - Workspace Search">f274ebe876c5fe1011d413ea91d69615</search_context_config>
+        <source display_value="Test Our Workspace - x_snc_pds_pipeli_0_partner_gt">2b746fe893c5fe1013d27f4badba1023</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:11</sys_created_on>
+        <sys_id>a7746fe893c5fe1013d27f4badba1032</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_a7746fe893c5fe1013d27f4badba1032</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:11</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

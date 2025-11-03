@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <creator_source/>
+        <description>This is default AI Search profile for Test Our Workspace</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>test-our-workspace Search Profile</label>
+        <name>x_snc_test_our_w_0_zfytctf_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id/>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:08</sys_created_on>
+        <sys_id>fa74ebe8cec5fe1090688b8bae01c91c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test-our-workspace Search Profile</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>ais_search_profile_fa74ebe8cec5fe1090688b8bae01c91c</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:11</sys_updated_on>
+    </ais_search_profile>
+</record_update>

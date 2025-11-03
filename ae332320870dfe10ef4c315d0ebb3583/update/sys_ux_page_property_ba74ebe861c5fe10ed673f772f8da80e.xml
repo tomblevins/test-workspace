@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Main Configuration</description>
+        <name>chrome_main</name>
+        <page display_value="Test Our Workspace">7674ebe8d8c5fe1095297fccf6445c1c</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ba74ebe861c5fe10ed673f772f8da80e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>sys_ux_page_property_ba74ebe861c5fe10ed673f772f8da80e</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:08</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_test_our_w_0.7674ebe8d8c5fe1095297fccf6445c1c.root.chrome_main</unique_name>
+        <value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=ba74ebe861c5fe10ed673f772f8da80e"/>
+</record_update>

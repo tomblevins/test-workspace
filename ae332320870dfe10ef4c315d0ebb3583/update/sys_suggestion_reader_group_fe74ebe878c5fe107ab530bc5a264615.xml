@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="Test Our Workspace AI Search Configuration">3274ebe824c5fe10afca6f3c5980ff15</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent searches</section_header>
+        <suggestion_type>Recent Search Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:08</sys_created_on>
+        <sys_id>fe74ebe878c5fe107ab530bc5a264615</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recent Search Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_fe74ebe878c5fe107ab530bc5a264615</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:08</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>
