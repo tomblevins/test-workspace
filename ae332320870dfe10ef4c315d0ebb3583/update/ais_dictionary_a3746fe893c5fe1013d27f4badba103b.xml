@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>dmn_demand</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>test-our-workspace Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_snc_test_our_w_0_test_our_workspace_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>NEW</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:11</sys_created_on>
+        <sys_id>a3746fe893c5fe1013d27f4badba103b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_test_our_w_0_test_our_workspace_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>ais_dictionary_a3746fe893c5fe1013d27f4badba103b</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:11</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

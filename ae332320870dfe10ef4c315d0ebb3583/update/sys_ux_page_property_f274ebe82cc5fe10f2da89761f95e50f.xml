@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Test Our Workspace">7674ebe8d8c5fe1095297fccf6445c1c</page>
+        <required_translations>[ {
+  "message" : "New Demand",
+  "comment" : ""
+}, {
+  "message" : "New Partner GTM Assets",
+  "comment" : ""
+}, {
+  "message" : "New Project",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f274ebe82cc5fe10f2da89761f95e50f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>sys_ux_page_property_f274ebe82cc5fe10f2da89761f95e50f</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:11</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_test_our_w_0.7674ebe8d8c5fe1095297fccf6445c1c.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Demand"},"routeInfo":{"route":"record","fields":{"table":"dmn_demand","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"dmn_demand","canCreate":true}}},{"label":{"translatable":true,"message":"New Project"},"routeInfo":{"route":"record","fields":{"table":"pm_project","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"pm_project","canCreate":true}}},{"label":{"translatable":true,"message":"New Partner GTM Assets"},"routeInfo":{"route":"record","fields":{"table":"x_snc_pds_pipeli_0_partner_gtm_assets","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_pds_pipeli_0_partner_gtm_assets","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=f274ebe82cc5fe10f2da89761f95e50f"/>
+</record_update>

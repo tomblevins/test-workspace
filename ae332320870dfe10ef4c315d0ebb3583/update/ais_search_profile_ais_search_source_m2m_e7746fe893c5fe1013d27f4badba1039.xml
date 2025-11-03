@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="test-our-workspace Search Profile">fa74ebe8cec5fe1090688b8bae01c91c</profile>
+        <search_source display_value="Demand">9a1c1d6387bfae10bf7843b5cebb35d9</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:11</sys_created_on>
+        <sys_id>e7746fe893c5fe1013d27f4badba1039</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test-our-workspace Search Profile.Demand</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_e7746fe893c5fe1013d27f4badba1039</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:11</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

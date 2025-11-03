@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:11</sys_created_on>
+        <sys_id>2b742fe893c5fe1013d27f4badba10ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.test-our-workspace.*.x_snc_test_our_w_0.user</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_security_acl display_value="now.test-our-workspace.*">7e74ebe834c5fe102a62ffcb7beae614</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2b742fe893c5fe1013d27f4badba10ef</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:11</sys_updated_on>
+        <sys_user_role display_value="x_snc_test_our_w_0.user" name="x_snc_test_our_w_0.user">7e332320870dfe10ef4c315d0ebb3598</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

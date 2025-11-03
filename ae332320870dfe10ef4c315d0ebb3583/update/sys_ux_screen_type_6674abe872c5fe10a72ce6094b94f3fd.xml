@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Dashboard Library</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:09</sys_created_on>
+        <sys_id>6674abe872c5fe10a72ce6094b94f3fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard Library</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>sys_ux_screen_type_6674abe872c5fe10a72ce6094b94f3fd</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:09</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=6674abe872c5fe10a72ce6094b94f3fd"/>
+</record_update>

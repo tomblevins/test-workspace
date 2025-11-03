@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <attachment_limit/>
+        <collapse_attachment>false</collapse_attachment>
+        <document_match_count/>
+        <document_match_threshold/>
+        <enable_exact_match>true</enable_exact_match>
+        <enable_semantic_search>false</enable_semantic_search>
+        <evam_definition display_value="AI Search For Next Search">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <filter_genius_results_by_search_source>false</filter_genius_results_by_search_source>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <log_signals_server_side>false</log_signals_server_side>
+        <name>Test Our Workspace AI Search Configuration</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="test-our-workspace Search Profile">fa74ebe8cec5fe1090688b8bae01c91c</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <semantic_groupby/>
+        <semantic_search_mode/>
+        <semantic_type/>
+        <show_disabled_facets>false</show_disabled_facets>
+        <show_tab_counts>true</show_tab_counts>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2025-11-03 15:59:09</sys_created_on>
+        <sys_id>3274ebe824c5fe10afca6f3c5980ff15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Our Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Test Our Workspace" source="x_snc_test_our_w_0">ae332320870dfe10ef4c315d0ebb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Our Workspace">ae332320870dfe10ef4c315d0ebb3583</sys_scope>
+        <sys_update_name>sys_search_context_config_3274ebe824c5fe10afca6f3c5980ff15</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2025-11-03 15:59:09</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=3274ebe824c5fe10afca6f3c5980ff15"/>
+</record_update>
